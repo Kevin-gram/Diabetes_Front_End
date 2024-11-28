@@ -17,13 +17,13 @@ const ContactUs = () => {
         <div className="bg-white bg-opacity-75 p-8 rounded-lg shadow-lg w-full max-w-3xl">
           <h2 className="text-3xl font-bold text-blue-900 mb-4">Get in Touch</h2>
           <p className="text-lg text-gray-800 mb-2">
-            <strong>Email:</strong> support@diabetesawareness.com
+            <strong>Email:</strong> k.nyiringan@alustudent.com
           </p>
           <p className="text-lg text-gray-800 mb-2">
-            <strong>Phone:</strong> +1 (123) 456-7890
+            <strong>Phone:</strong> + (250) 788660099
           </p>
           <p className="text-lg text-gray-800 mb-2">
-            <strong>Address:</strong> 123 Diabetes Awareness St, Health City, Wellness State, 12345
+            <strong>Address:</strong> 123  kk509St, Kigali City, 12345
           </p>
         </div>
       </animated.div>
